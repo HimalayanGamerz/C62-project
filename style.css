@@ -2,17 +2,19 @@ body
 {
     text-align: center;
 }
-
+.container{
+  background-color: mediumaquamarine;  
+}
 #app {
     background-color: aliceblue;
 }
 
-#MyCarousel
+#myCarousel
 {
     background-color: red;
 }
 
-#MyCarousel img
+#myCarousel img
 {
     height: 300px;
     margin-top: 35px;
